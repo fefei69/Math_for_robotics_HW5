@@ -1,8 +1,8 @@
 """
 
 Probabilistic Road Map (PRM) Planner
+https://github.com/AtsushiSakai/PythonRobotics/blob/master/PathPlanning/ProbabilisticRoadMap/probabilistic_road_map.py
 
-author: Atsushi Sakai (@Atsushi_twi)
 
 """
 
